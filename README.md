@@ -1,2 +1,2 @@
-# tindog-site-
+# tindog-site
 created with Bootstrap
