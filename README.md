@@ -1,2 +1,1 @@
-# tindog-site
-created with Bootstrap
+TinDog Starting Files
